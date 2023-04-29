@@ -1,0 +1,14 @@
+.btnWrapp {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.buttonSort {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}

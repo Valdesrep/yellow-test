@@ -1,0 +1,12 @@
+.buttonDel {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.tableTd {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
