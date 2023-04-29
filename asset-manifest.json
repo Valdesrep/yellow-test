@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yellow-test/static/css/main.7acaea2f.css",
+    "main.js": "/yellow-test/static/js/main.07d3183d.js",
+    "index.html": "/yellow-test/index.html",
+    "main.7acaea2f.css.map": "/yellow-test/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/yellow-test/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
